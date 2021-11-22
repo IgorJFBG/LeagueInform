@@ -6,7 +6,8 @@ import requests as req
 import leagueChampions
 import translationPortuguese
 
-KEY = "RGAPI-6d05de03-78c0-49ed-9b83-1aacb661e37e"  # altera todo dia
+KEY = "sua-chave-aqui"  # altera todo dia
+# resgate sua chave api de desenvolvimento em: https://developer.riotgames.com/
 URL = "https://br1.api.riotgames.com/"
 
 
