@@ -5,7 +5,7 @@ from translation import translation
 from translation import language
 
 tagLine = "br1"
-KEY = "RGAPI-235a0700-f17a-486f-b171-96e26eb4b96b"  # altera todo dia
+KEY = "sua-chave-API-aqui"  # altera todo dia
 # resgate sua chave api de desenvolvimento em: https://developer.riotgames.com/
 URL = f"https://{tagLine}.api.riotgames.com/"
 
